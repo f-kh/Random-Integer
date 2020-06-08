@@ -1,0 +1,25 @@
+{
+  "name": "random-integer",
+  "version": "1.0.0",
+  "description": "Generate random integer in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f-kh/random-integer.git"
+  },
+  "keywords": [
+    "random",
+    "int",
+    "integer"
+  ],
+  "author": "f-kh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f-kh/random-integer/issues"
+  },
+  "homepage": "https://github.com/f-kh/random-integer#readme"
+}
+
