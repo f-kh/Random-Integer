@@ -1,5 +1,5 @@
 {
-  "name": "random-integer",
+  "name": "Random-Integer",
   "version": "1.0.0",
   "description": "Generate random integer in Node.js",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/f-kh/random-integer.git"
+    "url": "git+https://github.com/f-kh/Random-Integer.git"
   },
   "keywords": [
     "random",
@@ -18,8 +18,8 @@
   "author": "f-kh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/f-kh/random-integer/issues"
+    "url": "https://github.com/f-kh/Random-Integer/issues"
   },
-  "homepage": "https://github.com/f-kh/random-integer#readme"
+  "homepage": "https://github.com/f-kh/Random-Integer#readme"
 }
 
